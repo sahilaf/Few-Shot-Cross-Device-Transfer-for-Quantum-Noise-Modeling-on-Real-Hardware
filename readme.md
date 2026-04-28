@@ -1,6 +1,10 @@
 # Few-Shot Cross-Device Transfer for Quantum Noise Modeling on Real Hardware
 
 <p align="center">
+  <img src="figure.png" width="900"/>
+</p>
+
+<p align="center">
   <a href="https://arxiv.org/abs/2604.24397"><img src="https://img.shields.io/badge/arXiv-2604.24397-b31b1b.svg" alt="arXiv"></a>
   <a href="https://huggingface.co/datasets/sahilalfarib/quantum-noise-transfer"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Dataset-yellow.svg" alt="HuggingFace Dataset"></a>
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue.svg" alt="Python">
