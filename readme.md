@@ -134,10 +134,12 @@ If you use this work, please cite:
 
 ```bibtex
 @article{farib2026fewshot,
-  title={Few-Shot Cross-Device Transfer for Quantum Noise Modeling on Real Hardware},
-  author={Farib, Sahil Al and Islam, Sheikh Redwanul and Anik, Azizur Rahman},
-  journal={arXiv preprint arXiv:2604.24397},
-  year={2026}
+  title   = {Few-Shot Cross-Device Transfer for Quantum Noise Modeling on Real Hardware},
+  author  = {Sahil Al Farib and Sheikh Redwanul Islam and Azizur Rahman Anik},
+  eprint  = {2604.24397},
+  archivePrefix = {arXiv},
+  primaryClass  = {quant-ph},
+  year    = {2026}
 }
 ```
 
