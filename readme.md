@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://arxiv.org/abs/2604.24397"><img src="https://img.shields.io/badge/arXiv-2604.24397-b31b1b.svg" alt="arXiv"></a>
-  <a href="https://huggingface.co/datasets/sahilalfarib/quantum-noise-transfer"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Dataset-yellow.svg" alt="HuggingFace Dataset"></a>
+  <a href="https://huggingface.co/datasets/sahilfarib/quantum-noise-transfer"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Dataset-yellow.svg" alt="HuggingFace Dataset"></a>
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue.svg" alt="Python">
   <img src="https://img.shields.io/badge/Framework-PyTorch%20%7C%20Qiskit-orange.svg" alt="Framework">
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
@@ -63,7 +63,7 @@ Input (41-dim) → Linear(128) → LayerNorm → GELU → Dropout(0.1)
 
 The dataset is hosted separately on Hugging Face:
 
-🔗 **[sahilalfarib/quantum-noise-transfer](https://huggingface.co/datasets/sahilalfarib/quantum-noise-transfer)**
+🔗 **[sahilfarib/quantum-noise-transfer](https://huggingface.co/datasets/sahilfarib/quantum-noise-transfer)**
 
 ### Dataset Summary
 
