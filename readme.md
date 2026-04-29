@@ -128,7 +128,7 @@ Results averaged over **5 random seeds** (seeds 0–4).
 
 ---
 
-## 🔖 Citation
+## 🔖 Citations
 
 If you use this work, please cite:
 
